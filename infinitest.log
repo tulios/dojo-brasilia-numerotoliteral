@@ -1,1570 +1,1188 @@
-29/11/2008 13:35:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:24:58 java.util.logging.LogManager$RootLogger log
 INFO: Logging at level INFO
-29/11/2008 13:35:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:24:58 java.util.logging.LogManager$RootLogger log
 INFO: Detected class directory: C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin
-29/11/2008 13:35:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:24:58 java.util.logging.LogManager$RootLogger log
 INFO: Starting Infinitest with: Classpath :[C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin;D:\eclipse-jee-ganymede-win32\eclipse\plugins\org.junit4_4.3.1\junit.jar;C:\Projetos\Frameworks and library\infinitest-4.0\infinitest.jar]  Class Directories: [[C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin]]
-29/11/2008 13:35:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:24:58 java.util.logging.LogManager$RootLogger log
 WARNING: Filter file infinitest.filters does not exist
-29/11/2008 13:35:50 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLitera.class]
-29/11/2008 13:35:50 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLitera]
-29/11/2008 13:35:50 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:35:51 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:35:51 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:42:08 java.util.logging.LogManager$RootLogger log
-INFO: Files removed. Reloading
-29/11/2008 13:42:08 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:42:08 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:42:08 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:42:09 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:42:09 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:44:10 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:44:10 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:44:10 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:44:10 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:44:10 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:44:23 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:44:23 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:44:23 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:44:24 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:44:24 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:44:37 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:25:00 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class, C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:44:37 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:25:00 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:44:37 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:25:00 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:44:37 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:25:01 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:44:37 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:25:01 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:44:53 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class, C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:44:53 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:44:53 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:44:54 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:44:54 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:45:02 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:51:08 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:45:02 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:51:08 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:45:02 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:51:08 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:45:03 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:51:09 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:45:03 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:51:09 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:45:41 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:53:01 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:45:41 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:53:01 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:45:41 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:53:01 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:45:42 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:53:01 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:45:42 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:53:01 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:46:02 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:46:02 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:46:02 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:46:03 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:46:03 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:46:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:58:07 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:46:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:58:07 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:46:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:58:07 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:46:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:58:07 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:46:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 13:58:07 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:47:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:00:20 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:47:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:00:20 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:47:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:00:20 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:47:48 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:00:21 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:47:48 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:00:21 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:48:25 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:01:53 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:48:25 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:01:53 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:48:25 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:01:53 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:48:25 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:01:54 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:48:25 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:01:54 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:49:22 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:49:22 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:49:22 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:49:22 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:49:22 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:49:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:16 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:49:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:16 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:49:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:16 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:49:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:16 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:49:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:16 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:50:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:03:40 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:03:40 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:03:40 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:03:40 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:03:40 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:04:14 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:50:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:14 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:50:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:14 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:50:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:15 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:50:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:15 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:50:27 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:50:27 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:50:27 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:50:27 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:50:27 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:51:30 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:34 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:51:30 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:34 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:51:30 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:34 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:51:30 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:35 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:51:30 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:35 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:51:42 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:51:42 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:51:42 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:51:42 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:51:42 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:55:26 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:55:26 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:55:26 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:55:26 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:55:26 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:55:41 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:55:41 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:55:41 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:55:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:55:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:57:05 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 13:57:05 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:57:05 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 13:57:05 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 13:57:05 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:57:48 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:56 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:57:48 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:57 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:57:48 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:57 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:57:49 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:57 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:57:49 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:04:57 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:58:03 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:05:45 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:58:03 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:05:45 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:58:03 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:05:45 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:58:04 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:05:45 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:58:04 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:05:45 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:58:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:06:46 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:58:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:06:46 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:58:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:06:46 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:58:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:06:47 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:58:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:06:47 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:05 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:07:51 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:05 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:07:51 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:05 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:07:51 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:05 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:07:51 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:05 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:07:51 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:08:03 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:08:03 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:08:03 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:08:03 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:11 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:08:03 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:07 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:07 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:07 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:22 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:08 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:22 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:08 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:30 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:30 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:30 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:28 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:30 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:28 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:30 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:43 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:43 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:43 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:44 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:44 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 13:59:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:57 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 13:59:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:57 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 13:59:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:57 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 13:59:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:58 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 13:59:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:09:58 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:00:45 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:00:45 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:00:45 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:00:46 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:00:46 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:01:08 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:01:08 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:01:08 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:01:08 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:01:08 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:01:15 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:01:15 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:01:15 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:01:16 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:01:16 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:01:29 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:01:29 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:01:29 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:01:29 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:01:29 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:01:50 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:01:50 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:01:50 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:01:50 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:01:50 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:03:24 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:03:24 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:03:24 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:03:25 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:03:25 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:03:48 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:03:48 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:03:48 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:03:49 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:03:49 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:03:57 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:03:57 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:03:57 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:03:58 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:03:58 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:04:15 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:04:15 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:04:15 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:04:16 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:04:16 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:04:18 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:04:18 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:04:18 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:04:19 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:04:19 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:05:29 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:05:29 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:05:29 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:05:29 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:05:29 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:06:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:01 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:06:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:01 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:06:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:01 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:06:22 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:03 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:06:22 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:03 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:15:16 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:10 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:15:16 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:10 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:15:16 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:10 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:15:17 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:11 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:15:17 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:11 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:15:19 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:45 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:15:19 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:45 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:15:19 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:45 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:15:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:45 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:15:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:10:45 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:15:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:09 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:15:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:09 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:15:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:09 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:15:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:09 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:15:27 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:09 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:16:07 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:34 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:16:07 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:34 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:16:07 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:34 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:16:08 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:35 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:16:08 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:11:35 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:16:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:13:03 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:16:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:13:03 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:16:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:13:03 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:16:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:13:04 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:16:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:13:04 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:16:49 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:15:56 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:16:49 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:15:56 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:16:49 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:15:56 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:16:50 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:15:56 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:16:50 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:15:56 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:17:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:02 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:17:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:02 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:17:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:02 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:17:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:02 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:17:14 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:02 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:17:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:06 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:17:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:06 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:17:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:06 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:17:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:07 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:17:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:16:07 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:17:23 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:17:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:17:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:17:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:17:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:17:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:17:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:17:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:17:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:17:38 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:17:38 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:18:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:18:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:18:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:18:19 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:18:19 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:18:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:18:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:18:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:18:38 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:18:38 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:18:51 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:18:51 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:18:51 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:18:52 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:18:52 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:19:36 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:19:36 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:19:36 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:19:37 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:19:37 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:19:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:19:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:19:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:19:47 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:19:47 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:19:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:19:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:19:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:19:53 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:19:53 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:20:36 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:20:36 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:20:36 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:20:37 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:20:37 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:20:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:20:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:20:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:20:53 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:20:53 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:21:29 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:21:29 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:21:29 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:21:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:21:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:21:35 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:21:35 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:21:35 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:21:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:21:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:21:57 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:21:57 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:21:57 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:21:58 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:21:58 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:25:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:25:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:25:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:25:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:25:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:32:28 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:32:28 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:32:28 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:32:29 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:32:29 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:32:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:32:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:32:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:32:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:32:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:34:04 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:34:04 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:34:04 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:34:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:34:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:34:34 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:34:34 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:34:34 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:34:35 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:34:35 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:41:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:41:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:41:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:41:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:41:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:44:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:44:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:44:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:44:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:44:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:45:59 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:48:02 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:48:02 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:48:02 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:48:03 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:48:03 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:50:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:50:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:50:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:50:06 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:50:06 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:50:08 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:50:08 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:50:08 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:50:08 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:50:08 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:50:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:50:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:50:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:50:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:50:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:54:20 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:17:23 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:20 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:17:23 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:20 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:17:23 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:21 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:17:23 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:21 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:17:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:23 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:17:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:23 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:17:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:23 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:17:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:24 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:17:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:54:24 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:30:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:55:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:55:07 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:55:07 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:55:07 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:55:07 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 14:30:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:30:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 14:30:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 14:30:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:55:40 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:37:29 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:37:29 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:37:29 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:37:30 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:37:30 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:38:50 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:38:50 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:38:50 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:38:51 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:38:51 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:41:05 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:41:05 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:41:05 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:41:06 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:41:06 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:46:13 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:46:13 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:46:13 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:46:13 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:46:13 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:47:07 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:47:07 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:47:07 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:47:07 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:47:07 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:47:20 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:47:20 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:47:20 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:47:21 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:47:21 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:48:01 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:48:01 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:48:01 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:48:01 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:48:01 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:48:24 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:48:24 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:48:24 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:48:24 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:48:24 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:50:16 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:50:16 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:50:16 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:50:17 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:50:17 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:50:51 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:50:51 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:50:51 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:50:51 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:50:51 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:51:30 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:51:30 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:51:30 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:51:30 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:51:30 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:52:46 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:52:46 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:52:46 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:52:47 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:52:47 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:52:57 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:52:57 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:52:57 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:52:57 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:52:57 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:53:07 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:53:07 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:53:07 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:53:08 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:53:08 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:53:16 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:53:16 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:53:16 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:53:17 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:53:17 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:56:57 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:56:57 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:56:57 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:56:58 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:56:58 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:57:44 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:57:44 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:57:44 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:57:44 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:57:44 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:58:41 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:58:41 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:58:41 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:58:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:58:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:58:48 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:58:48 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:58:48 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:58:49 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:58:49 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 14:59:13 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 14:59:13 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 14:59:13 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 14:59:13 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 14:59:13 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:00:02 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:00:02 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:00:02 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:00:03 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:00:03 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:00:08 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:00:08 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:00:08 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:00:09 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:00:09 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:00:38 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:00:38 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:00:38 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:00:39 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:00:39 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:00:52 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:00:52 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:00:52 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:00:52 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:00:52 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:01:53 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:01:53 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:01:53 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:01:54 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:01:54 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:02:43 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:02:43 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:02:43 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:02:43 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:02:43 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:02:52 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:02:52 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:02:52 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:02:52 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:02:52 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:03:16 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:03:16 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:03:16 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:03:16 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:03:16 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:03:28 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:03:28 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:03:28 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:03:28 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:03:28 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:03:59 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:03:59 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:03:59 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:04:00 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:04:00 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:04:23 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:04:23 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:04:23 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:04:24 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:04:24 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:04:29 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:04:29 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:04:29 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:04:30 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:04:30 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:05:59 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:05:59 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:05:59 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:06:00 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:06:00 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:06:26 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:06:26 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:06:26 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:06:27 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:06:27 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:07:42 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:07:42 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:07:42 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:07:42 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:07:42 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:00 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:00 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:00 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:00 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:00 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:03 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:03 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:03 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:03 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:03 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:13 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:13 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:13 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:13 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:13 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:21 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:21 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:21 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:21 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:21 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:39 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:39 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:39 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:39 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:39 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:08:46 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:08:46 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:08:46 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:08:47 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:08:47 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:10:10 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:10:10 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:10:10 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:10:11 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:10:11 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:10:58 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:25 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:10:58 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:25 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:10:58 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:25 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:10:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:25 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:10:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:25 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:14:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:56:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:56:45 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:56:45 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:57:17 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:57:17 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:57:17 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:57:18 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:57:18 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:57:49 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:57:49 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:57:49 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:57:49 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:57:49 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:57:53 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:57:53 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:57:53 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:57:54 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:57:54 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:58:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:58:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:58:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:58:06 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:58:06 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:58:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 14:58:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 14:58:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 14:58:12 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 14:58:12 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 14:59:34 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:14:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:59:34 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:14:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:59:34 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:14:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:59:34 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:14:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 14:59:34 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:14:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:00:58 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:14:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:00:58 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:14:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:00:58 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:14:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:00:58 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:14:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:00:58 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:15:24 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:15:24 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:15:24 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:15:24 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:15:24 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:15:45 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:15:45 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:15:45 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:15:45 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:15:45 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:16:34 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:16:34 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:16:34 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:16:35 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:16:35 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:18:46 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:18:46 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:18:46 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:18:47 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:18:47 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:19:40 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:19:40 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:19:40 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:19:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:19:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:21:40 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:21:40 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:21:40 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:21:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:21:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:21:52 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:21:52 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:21:52 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:21:53 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:21:53 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:23:20 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:23:20 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:23:20 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:23:20 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:23:20 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:23:36 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:23:36 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:23:36 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:23:37 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:23:37 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:23:50 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:23:50 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:23:50 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:23:50 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:23:50 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:24:21 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:24:21 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:24:21 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:24:22 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:24:22 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:24:47 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:24:47 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:24:47 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:24:47 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:24:47 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:25:03 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:25:03 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:25:03 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:25:04 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:25:04 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:25:33 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:25:33 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:25:33 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:25:34 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:25:34 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:25:50 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:25:50 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:25:50 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:25:50 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:25:50 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:26:00 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:26:00 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:26:00 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:26:01 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:26:01 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:26:11 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:26:11 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:26:11 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:26:11 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:26:11 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:26:20 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:26:20 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:26:20 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:26:20 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:26:20 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:27:57 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:27:57 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:27:57 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:27:58 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:27:58 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:28:42 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:28:42 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:28:42 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:28:43 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:28:43 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:28:59 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:28:59 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:28:59 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:28:59 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:28:59 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:29:06 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:29:06 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:29:06 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:29:07 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:29:07 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:30:17 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:30:17 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:30:17 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:30:17 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:30:17 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:30:59 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:30:59 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:30:59 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:30:59 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:30:59 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:31:33 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:31:33 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:31:33 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:31:34 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:31:34 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:31:48 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:31:48 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:31:48 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:31:49 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:31:49 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:31:53 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:31:53 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:31:53 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:31:53 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:31:53 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:32:09 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:32:09 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:32:09 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:32:10 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:32:10 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:32:23 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:32:23 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:32:23 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:32:23 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:32:23 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:32:30 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:32:30 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:32:30 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:32:31 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:32:31 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:33:17 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:33:17 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:33:17 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:33:17 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:33:17 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:33:23 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:33:23 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:33:23 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:33:23 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:33:23 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:33:45 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:02 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:33:45 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:02 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:33:45 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:02 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:33:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:03 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:33:46 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:03 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:34:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:01:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:01:22 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:01:22 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:01:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:01:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:01:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:01:50 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:01:50 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:01:50 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:01:51 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:01:51 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:02:13 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:02:13 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:02:13 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:02:13 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:02:13 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:03:23 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:34:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:03:23 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:34:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:03:23 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:34:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:34:47 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:03:24 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:34:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:04:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:04:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:04:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:04:21 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:04:21 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:07:07 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:34:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:07:07 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:34:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:07:07 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:34:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:07:08 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:34:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:07:08 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:35:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:43 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:35:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:43 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:35:18 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:43 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:35:19 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:44 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:35:19 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:44 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:35:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:48 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:35:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:48 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:35:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:48 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:35:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:48 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:35:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:08:48 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:35:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:43 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:35:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:43 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:35:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:43 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:35:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:44 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:35:56 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:44 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:36:41 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:36:41 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:36:41 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:36:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:36:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:36:48 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:36:48 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:36:48 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:36:49 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:36:49 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:36:56 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:36:56 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:36:56 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:36:56 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:36:56 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:37:17 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:37:17 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:37:17 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:37:18 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:37:18 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:37:25 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:37:25 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:37:25 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:37:25 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:37:25 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:38:56 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:38:56 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:38:56 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:38:57 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:38:57 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:41:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:58 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:41:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:58 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:41:20 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:58 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:41:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:59 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:41:21 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:10:59 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:41:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:11:52 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:41:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:11:52 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:41:35 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:11:52 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:41:36 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:11:53 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:41:36 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:11:53 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:42:20 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:42:20 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:42:20 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:42:21 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:42:21 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:44:40 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:09 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:44:40 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:09 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:44:40 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:09 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:44:40 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:09 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:44:40 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:09 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:48:04 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:48:04 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:48:04 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:48:05 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:48:05 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:48:16 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:48:16 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:48:16 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:48:17 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:48:17 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:48:40 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:48:40 java.util.logging.LogManager$RootLogger log
-INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:48:40 java.util.logging.LogManager$RootLogger log
-INFO: Starting test runner process
-29/11/2008 15:48:41 java.util.logging.LogManager$RootLogger log
-INFO: Test run complete
-29/11/2008 15:48:41 java.util.logging.LogManager$RootLogger log
-INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:50:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:55 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:50:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:55 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:50:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:55 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:50:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:56 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:50:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:12:56 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:52:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:13:18 java.util.logging.LogManager$RootLogger log
 INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
-29/11/2008 15:52:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:13:18 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:52:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:13:18 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:52:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:13:18 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:52:15 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:13:18 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:55:00 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:55:00 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:16 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:14:16 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:55:00 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:16 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:55:00 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:17 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:55:00 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:17 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:56:58 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:56:58 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:31 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:14:31 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:56:58 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:31 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:56:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:32 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:56:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:14:32 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 15:58:59 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 15:58:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:07 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:16:07 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 15:58:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:07 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 15:58:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:08 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 15:58:59 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:08 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 16:00:44 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 16:00:44 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:54 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:16:54 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 16:00:44 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:54 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 16:00:44 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:54 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 16:00:44 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:16:54 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
-29/11/2008 16:03:09 java.util.logging.LogManager$RootLogger log
-INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
-29/11/2008 16:03:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:18:22 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:18:22 java.util.logging.LogManager$RootLogger log
 INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
-29/11/2008 16:03:09 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:18:22 java.util.logging.LogManager$RootLogger log
 INFO: Starting test runner process
-29/11/2008 16:03:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:18:23 java.util.logging.LogManager$RootLogger log
 INFO: Test run complete
-29/11/2008 16:03:10 java.util.logging.LogManager$RootLogger log
+06/12/2008 15:18:23 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:18:33 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:18:33 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:18:33 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:18:33 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:18:33 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:19:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:19:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:19:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:19:24 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:19:24 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:22:27 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:22:27 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:22:27 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:22:28 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:22:28 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:22:51 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:22:51 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:22:51 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:22:52 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:22:52 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:24:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:24:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:24:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:24:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:24:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:27:15 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:27:15 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:27:15 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:27:16 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:27:16 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:28:45 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:28:45 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:28:45 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:28:46 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:28:46 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:29:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:29:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:29:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:29:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:29:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:29:26 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:29:26 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:29:26 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:29:26 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:29:26 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:29:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:29:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:29:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:29:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:29:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:30:47 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:30:47 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:30:47 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:30:48 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:30:48 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:31:05 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:31:05 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:31:05 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:31:05 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:31:05 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:31:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:31:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:31:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:31:11 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:31:11 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:31:20 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:31:20 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:31:20 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:31:20 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:31:20 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:31:59 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:31:59 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:31:59 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:00 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:00 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:32:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:32:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:32:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:12 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:12 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:32:21 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:32:21 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:32:21 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:22 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:22 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:32:32 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:32:32 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:32:32 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:32 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:32 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:32:38 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:32:38 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:32:38 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:38 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:38 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:32:44 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:32:44 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:32:44 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:32:44 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:32:44 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:33:03 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:33:03 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:33:03 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:33:04 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:33:04 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:33:18 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:33:18 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:33:18 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:33:19 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:33:19 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:34:00 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:34:00 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:34:00 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:34:01 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:34:01 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:34:11 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:34:11 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:34:11 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:34:11 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:34:11 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:34:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:34:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:34:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:34:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:34:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:34:30 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:34:31 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:34:31 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:34:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:34:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:34:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:34:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:34:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:35:24 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:35:24 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:35:24 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:35:25 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:35:25 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:35:42 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\TesteNumeroToLiteral.class]
+06/12/2008 15:35:42 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:35:42 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:35:43 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:35:43 java.util.logging.LogManager$RootLogger log
+INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST
+06/12/2008 15:37:06 java.util.logging.LogManager$RootLogger log
+INFO: Files changed: [C:\Projetos\eclipse\workspace-2009\numeroToLiteral\bin\br\dojo\numeroToLiteral\Conversor.class]
+06/12/2008 15:37:06 java.util.logging.LogManager$RootLogger log
+INFO: Running tests: [br.dojo.numeroToLiteral.TesteNumeroToLiteral]
+06/12/2008 15:37:06 java.util.logging.LogManager$RootLogger log
+INFO: Starting test runner process
+06/12/2008 15:37:07 java.util.logging.LogManager$RootLogger log
+INFO: Test run complete
+06/12/2008 15:37:07 java.util.logging.LogManager$RootLogger log
 INFO: Update complete. Status Running $TESTS_RAN of $TEST_COUNT - $CURRENT_TEST

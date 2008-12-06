@@ -1,5 +1,6 @@
 package br.dojo.numeroToLiteral;
 
+
 public class Conversor {
 	static String[] numeros = {
 		"zero",
@@ -7,17 +8,24 @@ public class Conversor {
 		"seis", "sete", "oito", "nove"
 	};
 
-	static String[] numerosDeOnzeADezenove = {
+	static String[] numerosDezADezenove = {
 		"dez", "onze", "doze", "treze", "quatorze",
 		"quinze", "dezesseis",
 		"dezessete", "dezoito", "dezenove"
 	};
 
-	static String[] dezenas = {"vinte", "trinta", "quarenta",
+	static String[] dezenas = {
+		"vinte", "trinta", "quarenta",
 		"cinquenta","sessenta","setenta","oitenta",
-	"noventa"};
+		"noventa"
+	};
 
-
+	static String[] centenas = {
+		"cento", "duzentos", "trezentos", "quatrocentos",
+		"quinhentos", "seiscentos", "setecentos",
+		"oitocentos", "novecentos"
+	};
+	
 	public static String numeroToLiteral(int numero) {
 		int index;
 
@@ -31,27 +39,40 @@ public class Conversor {
 			switch(num.charAt(0)){
 			case '1':{
 				index = Integer.parseInt(""+num.charAt(1));
-				return numerosDeOnzeADezenove[index];
+				return numerosDezADezenove[index];
 			}					
 
 			default: return getDezena(num);	
 			}
 
-		case 3:			 
-				if(num.equals("100"))
+		case 3:		
+			int centena = Integer.parseInt(""+num.charAt(0));
+			switch (centena) {
+			case 1:
+				//TODO unificar o ifelse desses dois cases
+				if (num.charAt(1)=='0' && num.charAt(2)=='0'){
 					return "cem";
-				if(num.charAt(1) == '0')
-				{
-					return "cento e " + 
-					numeros[Integer.parseInt(""+num.charAt(2))];
-				}							
-			return "cento e " + 
-			numeroToLiteral(Integer.parseInt(""+num.charAt(1)+num.charAt(2)));
+				}else{
+					return getCentena(num);
+				}
 
-			
+			default:
+				if (num.charAt(1)=='0' && num.charAt(2)=='0'){ 
+					return centenas[centena-1];
+				}else{
+					return getCentena(num);
+				}
+			}
 		}
 		return "?";
 
+	}
+
+	private static String getCentena(String num) {
+		return centenas[Integer.parseInt(""+num.charAt(0))-1]+" e "+
+		Conversor.numeroToLiteral(
+			Integer.parseInt(""+num.charAt(1)+num.charAt(2))
+		);
 	}
 
 	private static String getDezena(String num) {
